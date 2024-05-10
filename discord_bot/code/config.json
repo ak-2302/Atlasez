@@ -1,0 +1,67 @@
+{
+    "prefix": "!",
+    "helpchannel": 0,
+    "helpmessage": {
+        "message": "hi",
+        "embed": {
+            "id": 387081208,
+            "description": "test",
+            "content": "test",
+            "fields": [
+                {
+                    "id": 7692145,
+                    "name": "f1",
+                    "value": "val"
+                },
+                {
+                    "id": 66658245,
+                    "name": "f2",
+                    "value": "val",
+                    "inline": true
+                }
+            ],
+            "author": {
+                "name": "author",
+                "icon_url": "https://cdn.discordapp.com/attachments/1176892635999379570/1176895026333233242/image.png?ex=657087e7&is=655e12e7&hm=667c29dff48d5dfd49616dad3165cd4ce00b795c469a8cfae04585eff1aef165&"
+            },
+            "title": "通話に参加しました",
+            "color": 16765183
+        }
+    },
+    "guidechannel": 1238296879486210101,
+    "guidemessage": {
+        "message": "",
+        "embed": {
+            "id": 387081208,
+            "description": "test",
+            "content": "test",
+            "fields": [
+                {
+                    "id": 7692145,
+                    "name": "f1",
+                    "value": "val"
+                },
+                {
+                    "id": 66658245,
+                    "name": "f2",
+                    "value": "val",
+                    "inline": true
+                }
+            ],
+            "author": {
+                "name": "author",
+                "icon_url": "https://cdn.discordapp.com/attachments/1176892635999379570/1176895026333233242/image.png?ex=657087e7&is=655e12e7&hm=667c29dff48d5dfd49616dad3165cd4ce00b795c469a8cfae04585eff1aef165&"
+            },
+            "title": "通話に参加しました",
+            "color": 16765183
+        }
+    },
+    "joinchannel": 0,
+    "joinmessage": {
+        "message": "",
+        "embed": {}
+    },
+    "embedtemp": "{\n\"id\":387081208,\n\"description\":\"test\",\n\"content\":\"test\",\n\"fields\":[\n{\n\"id\":7692145,\n\"name\":\"f1\",\n\"value\":\"val\"\n},\n{\n\"id\":66658245,\n\"name\":\"f2\",\n\"value\":\"val\",\n\"inline\":true\n}\n],\n\"author\":{\n\"name\":\"author\",\n\"icon_url\":\"https://cdn.discordapp.com/attachments/1176892635999379570/1176895026333233242/image.png?ex=657087e7&is=655e12e7&hm=667c29dff48d5dfd49616dad3165cd4ce00b795c469a8cfae04585eff1aef165&\"\n},\n\"title\":\"通話に参加しました\",\n\"color\": 16765183\n}",
+    "serverid": 0,
+    "username": "Atlasez"
+}
