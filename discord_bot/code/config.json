@@ -2,7 +2,7 @@
     "prefix": "!",
     "helpchannel": 0,
     "helpmessage": {
-        "message": "hi",
+        "message": "help",
         "embed": {
             "id": 387081208,
             "description": "test",
@@ -28,40 +28,60 @@
             "color": 16765183
         }
     },
-    "guidechannel": 1238296879486210101,
+    "guidechannel": 1177238243016712262,
     "guidemessage": {
         "message": "",
         "embed": {
             "id": 387081208,
-            "description": "test",
+            "description": "ご参加いただきありがとうございます。円滑な運営のため、以下の項目を遵守くださいますようお願い申し上げます。",
             "content": "test",
             "fields": [
                 {
                     "id": 7692145,
-                    "name": "f1",
-                    "value": "val"
+                    "name": "サーバーニックネームについて",
+                    "value": "原則として本名フルネームにしてください。設定方法のわからない方は運営メンバーにひとことお申し付けください。"
                 },
                 {
                     "id": 66658245,
-                    "name": "f2",
-                    "value": "val",
-                    "inline": true
+                    "name": "個人間の連絡について",
+                    "value": "トラブルに対応しかねますので、お控えください。"
+                },
+                {
+                    "id": 66658445,
+                    "name": "ボイスチャンネルの使用について",
+                    "value": "意見交換等にご自由にお使いください。場に相応しくない話題はお控えください。"
+                },
+                {
+                    "id": 66358245,
+                    "name": "discordについて",
+                    "value": "discordのフォーラムチャンネル等を活用して議論していく予定です。discordの使い方に不安がある方は<#1176894215444242482>を参照してください。装飾表現については<#1177230242268598302>に簡易的にまとめてあるので適宜活用してください。"
                 }
             ],
             "author": {
                 "name": "author",
                 "icon_url": "https://cdn.discordapp.com/attachments/1176892635999379570/1176895026333233242/image.png?ex=657087e7&is=655e12e7&hm=667c29dff48d5dfd49616dad3165cd4ce00b795c469a8cfae04585eff1aef165&"
             },
-            "title": "通話に参加しました",
+            "title": "利用上のガイドライン",
             "color": 16765183
         }
     },
-    "joinchannel": 0,
+    "joinchannel": 1177238243016712262,
     "joinmessage": {
         "message": "",
-        "embed": {}
+        "embed": {
+            "id": 387081208,
+            "description": "<#1217709454229897236>チャンネルに自己紹介をお願いします。",
+            "content": "test",
+            "fields": [],
+            "author": {
+                "name": "",
+                "icon_url": ""
+            },
+            "title": "いらっしゃいませ",
+            "color": 16765183
+        }
     },
     "embedtemp": "{\n\"id\":387081208,\n\"description\":\"test\",\n\"content\":\"test\",\n\"fields\":[\n{\n\"id\":7692145,\n\"name\":\"f1\",\n\"value\":\"val\"\n},\n{\n\"id\":66658245,\n\"name\":\"f2\",\n\"value\":\"val\",\n\"inline\":true\n}\n],\n\"author\":{\n\"name\":\"author\",\n\"icon_url\":\"https://cdn.discordapp.com/attachments/1176892635999379570/1176895026333233242/image.png?ex=657087e7&is=655e12e7&hm=667c29dff48d5dfd49616dad3165cd4ce00b795c469a8cfae04585eff1aef165&\"\n},\n\"title\":\"通話に参加しました\",\n\"color\": 16765183\n}",
-    "serverid": 0,
+    "serverid": 1238013832144617483,
     "username": "Atlasez"
 }
